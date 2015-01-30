@@ -1,2 +1,2 @@
 # testgira
-TestGira in the account
+TestGira in the jira account
